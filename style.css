@@ -1,0 +1,76 @@
+/*
+Theme Name: Testing Theme
+Version: 1.0
+Description: Testing theme
+Author: Renos P
+
+*/
+body{
+	background:#e6ffff;
+}
+header{
+	background:#e6ffff;
+	height:70px;
+	width:100%;
+	margin-top:-37px;
+}
+header .nav-link{
+	color:black;
+	font-size:20px;
+	padding-top:12px;
+}
+h1{
+	padding-top:30px;
+	padding-bottom:17px;
+}
+h2{
+	padding-top:40px;
+	padding-bottom:10px;
+	text-decoration:underline;
+}
+.col{
+	padding-top:50px;
+}
+footer{
+	padding-top:50px;
+	height:250px;
+	width:100%;
+}
+.col-sm-12{
+	text-align:center;
+	padding-top:20px;
+	font-size:30px;
+	text-decoration:underline;
+}
+.col-sm-12 im {
+	width:10px;
+	height:10px;
+	margin-top:-25px;
+}
+.col-sm-6{
+	text-align:center;
+	padding-top:20px;
+	font-size:25px;	
+}
+#text_lorem1{
+	padding-top:150px;
+}
+#phone{
+	color:black;
+}
+#social{
+	margin-top:40px;
+	margin-bottom:-20px;
+}
+#face{
+	width:35px;
+	height:35px;
+}
+#insta{
+	width:35px;
+	height:35px;
+}
+#link{
+	width:35px;
+	height:35px;
+}
